@@ -6,4 +6,3 @@ This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwav
 
 Made from sharu725(https://github.com/sharu725/online-cv/)
 
-**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
