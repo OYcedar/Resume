@@ -24,7 +24,7 @@
 共享单车项目
 
 >使用高德地图实现地图功能；  
->在布局方面使用了IB和Mansory；  
+>在布局方面使用了Interface Builder和Mansory；  
 >使用BlowFish对传输数据进行加密和解密；  
 >使用git对项目代码进行版本控制，使用CocoaPods对第三方库进行管理和安装。  
 
