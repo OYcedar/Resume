@@ -36,9 +36,9 @@
 
 #### 其余项目
 * [芳品商贸采购端](https://itunes.apple.com/cn/app/%E8%8A%B3%E5%93%81%E5%95%86%E8%B4%B8%E9%87%87%E8%B4%AD%E7%AB%AF/id1197958662?l=zh&ls=1&mt=8) -- 芳品商贸内部使用的APP，用于仓库方下单，查询等使用。
-* [一元大乐购](https://itunes.apple.com/cn/app/%E4%B8%80%E5%85%83%E5%A4%A7%E4%B9%90%E8%B4%AD/id1076104630?l=zh&ls=1&mt=8) -- 喜丁电子公司官方出品的回馈用户的新活动平台。
+* [一元大乐购](https://itunes.apple.com/cn/app/%E4%B8%80%E5%85%83%E5%A4%A7%E4%B9%90%E8%B4%AD/id1076104630?l=zh&ls=1&mt=8) -- 抽奖活动平台。
 * [HelenSpa](https://itunes.apple.com/us/app/helenspa/id1149311368?l=zh&ls=1&mt=8) -- 美容相关APP。
-* [经典视线业务系统](https://itunes.apple.com/us/app/%E7%BB%8F%E5%85%B8%E8%A7%86%E7%BA%BF%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F/id1144443316?l=zh&ls=1&mt=8) -- 成都经典视线广告传媒有限公司内部使用平台。
+* [经典视线业务系统](https://itunes.apple.com/us/app/%E7%BB%8F%E5%85%B8%E8%A7%86%E7%BA%BF%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F/id1144443316?l=zh&ls=1&mt=8) -- 成都广告传媒有限公司内部使用平台。
 
 ### 成都亿桥科技有限公司	  iOS开发工程师   2015.12 — 2016.04
 
