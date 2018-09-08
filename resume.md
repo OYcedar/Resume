@@ -43,7 +43,7 @@
 ## 项目经历
 #### [Tibike共享单车(单独开发)](https://itunes.apple.com/cn/app/tibike/id1221822385?l=zh&ls=1&mt=8) 
 
-共享单车项目，类似于 ofo 小黄车和摩拜单车，用户可以非常方便的扫码外出骑行。
+共享单车项目，用户可以非常方便的扫码外出骑行。
 独立一人完成整个 App 从无到有的开发、上架以及后续的升级维护工作。
 
 * 使用 Interface Builder 和 Masonry，适配不同iOS设备；
